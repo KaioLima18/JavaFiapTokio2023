@@ -32,23 +32,21 @@ public class Operadores {
 		System.out.println(++numero);
 		System.out.println(numero++);
 		System.out.println(numero);
-		System.out.println(numero +1);
+		System.out.println(numero + 1);
 		System.out.println(numero);
-		
-		
+
 		System.out.println(" ");
-		
+
 		// Operador DE ATRIBUIÇÃO
-		
+
 		int number = 5;
-		
+
 		number += 8;
 		System.out.println(number);
-		
+
 		number /= 2;
 		System.out.println(number);
-		
-		
+
 	}
 
 }
