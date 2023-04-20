@@ -22,7 +22,7 @@ public class Exercício06 {
 		System.out.println("Nome da peca 1: " + nomePeca1);
 		System.out.println("Num da peca 1: " + numPecas1);
 		System.out.println("Preco da peca 1: " + precoPecas1);
-		
+
 		System.out.println(" ");
 
 		// PEÇA 2
@@ -47,7 +47,7 @@ public class Exercício06 {
 
 		System.out.println("O preco total de 1 deu: " + precoPecas1 * numPecas1);
 		System.out.println("O preco total de 2 deu: " + precoPecas2 * numPecas2);
-		System.out.println("Tudo: " );
+		System.out.println("Tudo: ");
 
 	}
 
